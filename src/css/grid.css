@@ -1,0 +1,27 @@
+.grid{
+    padding: 3%;
+    background-image: linear-gradient(lightgray, gray);
+    height: 46rem;
+    /* width: 26rem; */
+}
+
+.info{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    color: white;
+    font-size: 3em;
+    margin: 1px auto;
+    width: 8em;
+    padding: 1%;
+}
+
+.puzzle-container {
+    display: flex;
+    flex-flow: row wrap;
+    height: 25rem;
+    width: 26rem;
+    margin: 0 auto;
+}
+
+
