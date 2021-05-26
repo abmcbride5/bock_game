@@ -1,7 +1,8 @@
 .grid{
     padding: 3%;
-    background-image: linear-gradient(lightblue, powderblue);
+    background-image: linear-gradient(lightgray, gray);
     height: 46rem;
+    /* width: 26rem; */
 }
 
 .info{
