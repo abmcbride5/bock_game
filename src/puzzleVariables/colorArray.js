@@ -4,7 +4,7 @@ const colorArray = {
     3: "yellow",
     4: "purple",
     5: "green",
-    0: "blank"
+    6: "pink"
 
 }
 

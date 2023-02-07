@@ -4,10 +4,10 @@ export default function createPuzzle(){
 	for (let i = 0; i < 6; i += 1){
 		let temp = [];
 		for (let k = 0; k < 5; k += 1){
-			temp.push(Math.floor(Math.random() * (6 - 1) + 1));
+			temp.push(Math.floor(Math.random() * (7 - 1) + 1));
 		}
 		newPuzzle.push(temp);
 	}
-
+	console.log(newPuzzle);
 	return newPuzzle;
 }

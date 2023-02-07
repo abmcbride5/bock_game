@@ -2,40 +2,40 @@
     background-image: linear-gradient(rgb(3, 3, 63), navy);
     height: 5rem;
     width: 5rem;
-    border: 5px solid ivory;
+    border: 5px solid linear-gradient(rgb(3, 3, 63), navy);
 }
 
 .red {
     background-image: linear-gradient(red,darkred);
     height: 5rem;
     width: 5rem;
-    border: 5px solid ivory;
+    border: 5px solid linear-gradient(red,darkred);
 }
 
 .yellow {
     background-image: linear-gradient(yellow, orange);
     height: 5rem;
     width: 5rem;
-    border: 5px solid ivory;
+    border: 5px solid linear-gradient(yellow, orange);
 }
 
 .green {
     background-image: linear-gradient(green, lime);
     height: 5rem;
     width: 5rem;
-    border: 5px solid ivory;
+    border: 5px solid linear-gradient(green, lime);
 }
 
 .purple {
     background-image: linear-gradient(purple, indigo);
     height: 5rem;
     width: 5rem;
-    border: 5px solid ivory;
+    border: 5px solid linear-gradient(purple, indigo);
 }
 
-.blank {
-    background-image: linear-gradient(gray,rgb(245, 239, 239));
+.pink {
+    background-image: linear-gradient(pink,violet);
     height: 5rem;
     width: 5rem;
-    border: 5px solid rgb(221, 216, 208);
+    border: 5px solid linear-gradient(pink,violet);
 }
